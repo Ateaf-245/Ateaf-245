@@ -17,6 +17,6 @@ I’m a Full Stack Developer with a passion for creating web applications and ex
 
 ## 💬 Get in Touch
 - LinkedIn: [Ateaf Bankapur](https://www.linkedin.com/in/ateaf-bankapur/)
-- Twitter: [@johndoe](https://twitter.com/ateaf_2000)
+- Twitter: [@Ateaf_2000](https://twitter.com/ateaf_2000)
 
 ### 🌟 Thanks for visiting!
