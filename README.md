@@ -1,6 +1,6 @@
 # Hi there, I'm Ateaf Bankapur! 👋
 
-I’m a Full Stack Developer with a passion for creating web applications and exploring new technologies. I enjoy solving complex problems and am always eager to learn and share knowledge.
+Passionate **Java Developer** with a strong focus on building robust web applications and exploring cutting-edge technologies. I thrive on solving complex challenges and am always eager to expand my skill set while sharing knowledge with others.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Java, JavaScript
