@@ -3,9 +3,9 @@
 Passionate **Java Developer** with a strong focus on building robust web applications and exploring cutting-edge technologies. I thrive on solving complex challenges and am always eager to expand my skill set while sharing knowledge with others.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Java, JavaScript
-- Frameworks: Spring Boot, Spring MVC, Angular
-- Tools: Git, SVN, Docker, VS Code, IntelliJ Idea
+- Programming Languages: Java, JavaScript, Unix.
+- Frameworks & Architectures: Spring Framework, Spring Boot, Spring security, Spring Data JPA, Microservices, Flutter
+- Tools: Git, SVN, Docker, VS Code, IntelliJ Idea, Jira, Confluence.
 
 <!-- ## 🚀 Featured Projects
 - **[Weather App](https://github.com/johndoe/weather-app):** A web application that provides weather forecasts based on the user's location.
